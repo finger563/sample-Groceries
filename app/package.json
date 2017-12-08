@@ -1,3 +1,4 @@
 {
+  "profiling": "timeline",
   "main": "main.js"
 }
